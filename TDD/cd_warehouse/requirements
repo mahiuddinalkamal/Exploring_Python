@@ -1,0 +1,16 @@
+Customers can buy CDs, searching for the title and
+the artist. Record labels sends batches of the CDs
+to the warehouse. Customers can only order titles that are in stock.
+
+1. Buy a CD
+* If in stock - deduct the amount bought--done
+* If not in stock - say not in stock
+
+2. Search for a CD
+* If it is in catalogue- return the matching CD
+* If not -- return null
+
+3. Receiving batch of CDs
+* If the copies of 1 CD is in the catalogue-- add copies to that CD
+* If not -- add that CD to the catalogue and then add the copies to that CD
+* If multiple CDs in batch -- add any missing CD to the catalogue and then add copies to each CD
