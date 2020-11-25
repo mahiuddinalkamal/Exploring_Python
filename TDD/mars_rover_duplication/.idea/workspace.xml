@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f44bb400-b24f-41f4-adf8-f824202dc1a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../cd_warehouse/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dvd_library/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopping_basket/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cd_warehouse/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cd_warehouse/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dvd_library/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dvd_library/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shopping_basket/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping_basket/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shopping_basket/shopping_basket.py" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping_basket/shopping_basket.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shopping_basket/test/shopping_basket_test" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping_basket/test/shopping_basket_test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/mars_rover_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/mars_rover_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,21 +94,21 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602042285781" />
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1602042051650">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1606295235689">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602042051650" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1602042051650">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606295235689" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1606295235689">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602042051650" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1602042051650">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606295235689" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1606295235689">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602042051650" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1602042051650">
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606295235689" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1606295235689">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602042051650" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606295235689" />
   </component>
 </project>

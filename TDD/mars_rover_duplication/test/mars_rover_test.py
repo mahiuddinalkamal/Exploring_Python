@@ -21,7 +21,7 @@ class MyTestCase(unittest.TestCase):
         ('L', 'N', 'W'),
         ('L', 'W', 'S'),
         ('L', 'S', 'E'),
-        ('L', 'E', 'N'),
+        ('L', 'E', 'N')
     ])
     def test_turns_left_anticlockwise(self, turns, starts_facing, ends_facing):
         rover = Rover(starts_facing)
