@@ -3,7 +3,7 @@ the artist. Record labels sends batches of the CDs
 to the warehouse. Customers can only order titles that are in stock.
 
 1. Buy a CD
-* If in stock - deduct the amount bought--done
+X If in stock - deduct the amount bought--done
 * If not in stock - say not in stock
 
 2. Search for a CD

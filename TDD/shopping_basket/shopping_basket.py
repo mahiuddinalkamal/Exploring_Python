@@ -10,8 +10,7 @@ class Basket(object):
 
     def total(self):
         if len(self.items) > 0:
-            return reduce(lambda subtotal, item: subtotal + item.unit_price * item.quantity, self.items, 0)
-            #return self.items[0].unit_price * self.items[0].quantity
+            return reduce(lambda subtotal, item: subtotal + (item.unit_price * item.quantity), self.items, 0)
         return 0
 
 
